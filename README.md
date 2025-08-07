@@ -20,25 +20,6 @@ The dashboard uses a Superstore sample dataset, which includes fields such as:
 - Product ID, Category, Sub-Category, Product Name
 - Region, City, Country, Postal Code
 
-> This dataset is for demonstration and learning purposes. No proprietary or sensitive data is included.
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-    ```
-    git clone https://github.com/your-username/superstore-sales-insights.git
-    ```
-2. **Open in Power BI Desktop**
-    - Open `Superstore_Sales_Insights.pbix` in Power BI Desktop.
-3. **Connect Your Data (Optional)**
-    - Replace the sample data with your own dataset as required.
-4. **Explore & Customize**
-    - Use the interactive dashboard to filter and analyze data.
-
-## 📷 Screenshots
-
-*Add dashboard screenshots here.*
-
 ## 📝 Usage
 
 - Monitor business KPIs (Sales, Profit, Customers, Quantity)
@@ -46,6 +27,3 @@ The dashboard uses a Superstore sample dataset, which includes fields such as:
 - Identify opportunities for optimization
 - Support decision-making in marketing, product, and supply chain
 
-## 🔧 Customization
-
-Feel free to adapt the dashboard by updating data sources, customizing visuals, or adding
